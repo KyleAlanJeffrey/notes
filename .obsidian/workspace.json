@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object Tracking with Kalman Filter & Mahalabanois.md",
+                "file": "Object Tracking/Object Tracking with Kalman Filter & Mahalabanois.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Tracking with Kalman Filter & Mahalabanois.md",
+                "file": "Object Tracking/Object Tracking with Kalman Filter & Mahalabanois.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Tracking with Kalman Filter & Mahalabanois.md",
+                "file": "Object Tracking/Object Tracking with Kalman Filter & Mahalabanois.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Tracking with Kalman Filter & Mahalabanois.md",
+                "file": "Object Tracking/Object Tracking with Kalman Filter & Mahalabanois.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,15 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "20b060f465df10b8",
+  "active": "4840f7807102f29b",
   "lastOpenFiles": [
+    "Object Tracking",
     "Software/Asyncua.md",
     "Software/Automation Studio.md",
     "Software/Fluent Bit.md",
     "Software/Git.md",
     "Software/NGINX.md",
     "Software/Gitlab.md",
-    "Object Tracking with Kalman Filter & Mahalabanois.md",
+    "Object Tracking/Object Tracking with Kalman Filter & Mahalabanois.md",
     "Software/Supervisord.md",
     "Software/Systemd.md",
     "Software/Object Tracking.md",
@@ -214,7 +215,6 @@
     "Software",
     "Linux Distros/Yocto Linux.md",
     "Linux Distros/Alpine Linux.md",
-    "Linux Distros/Ubuntu.md",
     "Linux Distros/Package Managers",
     "Linux Distros",
     "Networking",
