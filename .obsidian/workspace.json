@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object Tracking with Kalman Filter & Mahalabanois.md",
+                "file": "Software/Asyncua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object Tracking with Kalman Filter & Mahalabanois"
+              "title": "Asyncua"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Tracking with Kalman Filter & Mahalabanois.md",
+                "file": "Software/Asyncua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Object Tracking with Kalman Filter & Mahalabanois"
+              "title": "Backlinks for Asyncua"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Tracking with Kalman Filter & Mahalabanois.md",
+                "file": "Software/Asyncua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Object Tracking with Kalman Filter & Mahalabanois"
+              "title": "Outgoing links from Asyncua"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Tracking with Kalman Filter & Mahalabanois.md",
+                "file": "Software/Asyncua.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Object Tracking with Kalman Filter & Mahalabanois"
+              "title": "Outline of Asyncua"
             }
           }
         ]
@@ -185,6 +185,52 @@
   },
   "active": "20b060f465df10b8",
   "lastOpenFiles": [
-    "Object Tracking with Kalman Filter & Mahalabanois.md"
+    "Software/Automation Studio.md",
+    "Software/Fluent Bit.md",
+    "Software/Git.md",
+    "Software/NGINX.md",
+    "Software/Gitlab.md",
+    "Object Tracking with Kalman Filter & Mahalabanois.md",
+    "Software/Supervisord.md",
+    "Software/Systemd.md",
+    "Software/Object Tracking.md",
+    "Software/Saltstack/Notes.md",
+    "Software/Saltstack/Commands.md",
+    "Software/Saltstack/@Saltstack.md",
+    "Software/Saltstack",
+    "Software/wpscan.md",
+    "Software/Languages/Python.md",
+    "Software/Languages/C++.md",
+    "Software/Languages",
+    "Software/Asyncua.md",
+    "Software/SSH.md",
+    "Software/Nvidia Deepstream.md",
+    "Software/Yarn.md",
+    "Software/Docker/Documentation.md",
+    "Software/Docker/Commands.md",
+    "Software/Docker/@ Docker.md",
+    "Software/Docker",
+    "Software/GStreamer.md",
+    "Software",
+    "Linux Distros/Yocto Linux.md",
+    "Linux Distros/Alpine Linux.md",
+    "Linux Distros/Ubuntu.md",
+    "Linux Distros/Package Managers",
+    "Linux Distros",
+    "Networking",
+    "assets/Screenshot 2025-01-08 at 2.54.15 PM.png",
+    "assets/Pasted image 20250907235452.png",
+    "assets/Pasted image 20250722134621.png",
+    "assets/Pasted image 20240218121104.png",
+    "assets/Pasted image 20240404130304.png",
+    "assets/Pasted image 20240311161642.png",
+    "assets/Pasted image 20240222164020.png",
+    "assets/Pasted image 20251008111900.png",
+    "assets/Pasted image 20250122104542.png",
+    "assets/OldCom.png",
+    "assets/609964-000026-Gateway-270-Data-Sheet_rev-1.1.pdf",
+    "assets/Stout Industrial Tech Network Message Database Appendix A B-1 (1).pdf",
+    "assets/100009122.pdf",
+    "assets/Untitled.canvas"
   ]
 }

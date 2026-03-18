@@ -1,0 +1,3 @@
+context: https://www.fortinet.com/resources/cyberglossary/user-datagram-protocol-udp
+
+***User Datagram Protocol (UDP)** is a communications protocol for time-sensitive applications like gaming, playing videos, or [Domain Name System (DNS)](https://www.fortinet.com/resources/cyberglossary/what-is-dns) lookups. UDP results in speedier communication because it does not spend time forming a firm connection with the destination before transferring the data. Because establishing the connection takes time, eliminating this step results in faster data transfer speeds.*
